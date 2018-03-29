@@ -11,3 +11,6 @@
 *[UCICAR](UCICar)通用汽车评用等级 ([数据来源](http://archive.ics.uci.edu/ml/machine-learning-databases/car/)).
 
 *[Statlog](Statlog)德国贷款违约([数据来源](http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/)).
+
+## 关于Python的说明
+* 使用Python的pandas [相关教程](http://pandas.pydata.org/pandas-docs/stable/search.html?q=replace)
